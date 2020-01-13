@@ -1,0 +1,6 @@
+CPU used for running the simulation:
+Single core of an Intel Xeon E5-2630 CPU at 2.30 GHz
+
+R Version: 3.5.0
+
+All measurements are in milliseconds (ms).
